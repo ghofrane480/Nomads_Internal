@@ -1,0 +1,6 @@
+{
+  "name": "Nomads Internal",
+  "description": "Plateforme centralisée de gestion pour auberges de jeunesse (Réservations, Finance, Dashboard).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
